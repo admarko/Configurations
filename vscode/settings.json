@@ -1,0 +1,15 @@
+{
+  "editor.fontFamily": "DankMono-Regular",
+  "editor.fontSize": 13,
+  "editor.formatOnPaste": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "workbench.colorTheme": "Monokai Pro",
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "Monokai Pro Icons",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.visible": true,
+"workbench.sideBar.location": "left",
+"window.zoomLevel": 0
+}
